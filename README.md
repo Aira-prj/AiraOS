@@ -1,5 +1,5 @@
 # AiraOS
-This is my first attempt at creating an operating system. It is a minimal OS project and is not intended for actual use.
+It is a minimal OS project and is not intended for actual use.
 ![](images/aira.png)
 
 ### Note:
